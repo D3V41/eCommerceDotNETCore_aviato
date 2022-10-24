@@ -1,0 +1,86 @@
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.exe
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.deps.json
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.runtimeconfig.json
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.runtimeconfig.dev.json
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.pdb
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.csproj.AssemblyReference.cache
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.AssemblyInfoInputs.cache
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.AssemblyInfo.cs
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.csproj.CoreCompileInputs.cache
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\staticwebassets\rest.StaticWebAssets.Manifest.cache
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\staticwebassets\rest.StaticWebAssets.xml
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\scopedcss\bundle\rest.styles.css
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.RazorTargetAssemblyInfo.cache
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.csproj.CopyComplete
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.dll
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.pdb
+C:\Users\Deval\Desktop\Mobile Solutiion Development\Semester 2\WT\Assigments\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.genruntimeconfig.cache
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.exe
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.deps.json
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.runtimeconfig.json
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.runtimeconfig.dev.json
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\rest.pdb
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.csproj.AssemblyReference.cache
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.AssemblyInfoInputs.cache
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.AssemblyInfo.cs
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.csproj.CoreCompileInputs.cache
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\staticwebassets\rest.StaticWebAssets.Manifest.cache
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\staticwebassets\rest.StaticWebAssets.xml
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\scopedcss\bundle\rest.styles.css
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.RazorTargetAssemblyInfo.cache
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.csproj.CopyComplete
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.dll
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.pdb
+C:\Users\ronak\Desktop\Sem 2\Web Design\Assignment 3\eCommerceDotNETCore_aviato\rest\rest\obj\Debug\netcoreapp3.1\rest.genruntimeconfig.cache
